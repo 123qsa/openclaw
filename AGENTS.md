@@ -17,6 +17,10 @@ This project uses progressive documentation disclosure. Agent does not need to k
 - **Testing**: [docs/agents/TESTING.md](docs/agents/TESTING.md) - Test framework, coverage, running tests
 - **Building**: [docs/agents/CONFIG.md](docs/agents/CONFIG.md) - Build commands, environment setup
 
+### Code Quality
+
+- **LLM Audit**: [docs/agents/LLM_AUDIT.md](docs/agents/LLM_AUDIT.md) - Dual-track audit system (oxlint + semantic LLM audit)
+
 ### Workflow & Process
 
 - **Releasing**: [docs/agents/RELEASING.md](docs/agents/RELEASING.md) - Version management, publishing
