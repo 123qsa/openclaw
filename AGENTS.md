@@ -20,6 +20,7 @@ This project uses progressive documentation disclosure. Agent does not need to k
 ### Code Quality
 
 - **LLM Audit**: [docs/agents/LLM_AUDIT.md](docs/agents/LLM_AUDIT.md) - Dual-track audit system (oxlint + semantic LLM audit)
+- **Entropy Management**: [docs/agents/ENTROPY.md](docs/agents/ENTROPY.md) - Automated rule system maintenance
 
 ### Workflow & Process
 
